@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fp-utils", "fp-utils\fp-utils.csproj", "{91273433-FCDB-4493-8088-1C8CBF999376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91273433-FCDB-4493-8088-1C8CBF999376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91273433-FCDB-4493-8088-1C8CBF999376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91273433-FCDB-4493-8088-1C8CBF999376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91273433-FCDB-4493-8088-1C8CBF999376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BBD1D80-1FE3-42B7-AB22-3F04D646706D}
+	EndGlobalSection
+EndGlobal
